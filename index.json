@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "claude-system-prompts",
+  "versions": [
+    {
+      "commit": "1f401657b37d8f8e2c4bba39320954b605b05724",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:50:33.431109+00:00"
+    }
+  ]
+}
